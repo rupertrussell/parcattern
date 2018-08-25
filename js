@@ -22,6 +22,13 @@
 //    https://www.facebook.com/epistolariy                              //
 //////////////////////////////////////////////////////////////////////////
 
+
+// "Parcattern_I" by Manoylov AC
+// http://www.openprocessing.org/sketch/516672
+// Licensed under Creative Commons Attribution ShareAlike
+// https://creativecommons.org/licenses/by-sa/3.0https://creativecommons.org/licenses/GPL/2.0/
+
+
 'use strict';
 (function() {
   var canvas = document.getElementById('canvas'),
